@@ -1,4 +1,4 @@
-#watch the 96th video of lecture.
+
 from replit import clear
 from art import logo
 print(logo)
